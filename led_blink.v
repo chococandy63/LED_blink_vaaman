@@ -6,16 +6,16 @@ module led_blink(
     output led_4
   );
   reg init1=0,init2=0,init3=0,init4=0;
-  reg [20:0]count=0;
+  reg [23:0]count=0;
   always@(posedge clk_in)
   begin
-    if(count>=21'd10000000)
+    if(count>=24'd10000000)
     begin
       init1<=~init1;
       init2<=~init2;
       init3<=~init3;
       init4<=~init4;
-      count<=21'd0;
+      count<=24'd0;
     end
     else
     begin

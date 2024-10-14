@@ -1,0 +1,21 @@
+INFO     : Efinix FPGA Bitstream Generator.
+INFO     : Version: 2024.1.163 
+INFO     : Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
+INFO     : Compiled: Jun 25 2024.
+INFO     : Using source file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.lbf"
+INFO     : Generating HEX programming file for device "T120F324", family "Trion"
+INFO     : Using periphery source file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.lpf"
+INFO     : Generating bit file: "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.bit"
+INFO     : HEX Generation Options Summary:
+INFO     : 	Listing options specified to bitstream generation:
+INFO     : 	spi_low_power_mode                       = on
+INFO     : 	oscillator_clock_divider                 = DIV8
+INFO     : 	io_weak_pullup                           = on
+INFO     : 	enable_remote_update                     = off
+INFO     : 	release_tri_then_reset                   = on
+INFO     : Finished generating "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.hex"
+INFO     : Efinix Bitstream Generator took 6.26642 seconds.
+INFO     : 	Efinix Bitstream Generator took 6.15 seconds (approximately) in total CPU time.
+INFO     : Efinix Bitstream Generator virtual memory usage: begin = 72.412 MB, end = 372.12 MB, delta = 299.708 MB
+INFO     : Efinix Bitstream Generator resident set memory usage: begin = 16.752 MB, end = 285.38 MB, delta = 268.628 MB
+INFO     : 	Efinix Bitstream Generator peak resident set memory usage = 1321.85 MB

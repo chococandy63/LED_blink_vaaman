@@ -1,0 +1,155 @@
+           
+           Efinix FPGA Placement and Routing.
+           Version: 2024.1.163 
+           Compiled: Jun 25 2024.
+           
+           Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
+
+           
+           The Tool Is Based on VPR of University of Toronto,
+           a free open source code under MIT license.
+           
+           
+INFO     : Running Placement and Routing for Family "Trion", Device "T120F324" ...
+           
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+INFO     : VDB Netlist Checker took 0.00135368 seconds.
+INFO     : 	VDB Netlist Checker took 0 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 110.864 MB, end = 110.992 MB, delta = 0.128 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 1321.7 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : Pass 0: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 0 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
+INFO     : Netlist pre-processing took 0.00392233 seconds.
+INFO     : 	Netlist pre-processing took 0.01 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 110.216 MB, end = 110.992 MB, delta = 0.776 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 1321.7 MB
+           ***** Ending stage netlist pre-processing *****
+           
+           ***** Beginning stage pre-packing ... *****
+           ***** Ending stage pre-packing *****
+           
+           ***** Beginning stage packing ... *****
+INFO     : Generate proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 0.000216 seconds
+INFO     : Creating IO constraints file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.io_place'
+INFO     : Packing took 0.00433796 seconds.
+INFO     : 	Packing took 0 seconds (approximately) in total CPU time.
+INFO     : Packing virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
+INFO     : Packing resident set memory usage: begin = 111.82 MB, end = 112.244 MB, delta = 0.424 MB
+INFO     : 	Packing peak resident set memory usage = 1321.7 MB
+           ***** Ending stage packing *****
+           
+           ***** Beginning stage packed netlist loading ... *****
+INFO     : Read proto netlist file /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto
+INFO     : Read proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 5.8e-05 seconds
+INFO     : Setup net and block data structure took 0.001415 seconds
+INFO     : Packed netlist loading took 0.0116009 seconds.
+INFO     : 	Packed netlist loading took 0.01 seconds (approximately) in total CPU time.
+INFO     : Packed netlist loading virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
+INFO     : Packed netlist loading resident set memory usage: begin = 112.244 MB, end = 112.552 MB, delta = 0.308 MB
+INFO     : 	Packed netlist loading peak resident set memory usage = 1321.7 MB
+           ***** Ending stage packed netlist loading *****
+           
+           ***** Beginning stage pre-placement ... *****
+           
+           ***** Ending stage pre-placement *****
+           
+INFO     : No SDC file found.  Using default timing constraint of 1 ns.
+INFO     : NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+INFO     : Creating clock 'clk_in' with 1 sources
+           ***** Beginning stage initial placement ... *****
+INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Writing IO placement constraints to "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.io"
+INFO     : Reading placement constraints from '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.io'.
+INFO     : Reading placement constraints from '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.io_place'.
+           ***** Ending stage initial placement *****
+           
+           ***** Beginning stage placement ... *****
+INFO     : Create /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO_after_qp.qdelay
+INFO     : QPLACER STATIC DB USAGE DISABLED
+INFO     : Starting Global Placer with 6 threads ...
+            ----------     -------  --------------     -------
+             Iteration       WHPWL Worst Slack (ps) Convergence
+            ----------     -------  --------------     -------
+INFO     :           1         105           -2015        88.9%
+INFO     :           2         100           -2015        92.3%
+INFO     :           3         101           -2015        92.3%
+INFO     :           4         102           -2015        92.3%
+INFO     :           5         101           -2015        92.3%
+INFO     :           6         100           -2015        92.3%
+INFO     :           7         100           -2015        93.2%
+INFO     :           8         100           -2015        93.2%
+INFO     :           9         101           -2015        93.2%
+INFO     :          10         100           -2015        93.2%
+INFO     :          11         100           -2015        94.8%
+INFO     :          12         100           -2510        97.3%
+INFO     :          13         101           -2510        97.3%
+INFO     :          14         101           -2500        99.5%
+INFO     :          15         101           -2506        99.8%
+INFO     :          16         101           -2496       100.0%
+INFO     :          17         101           -2506       100.0%
+INFO     :          18         101           -2506       100.0%
+INFO     :          19         101           -2506       100.0%
+INFO     : Starting Annealer
+            ----------     -------  --------------     -------
+             Iteration       WHPWL  Delay Max (ps)     R Limit
+            ----------     -------  --------------     -------
+INFO     :           0         101            3350        30.0
+INFO     :           1         127            2946        30.0
+INFO     :           2         134            2859        30.0
+INFO     :           3         134            2859        30.0
+INFO     :           4         138            2859        30.0
+INFO     :           5         138            2859        30.0
+INFO     :           6         135            2859        30.0
+INFO     :           7         130            2859        30.0
+INFO     :           8         130            2859        30.0
+INFO     :           9         131            2859        30.0
+INFO     :          10         128            2859        30.0
+INFO     :          11         127            2859        30.0
+INFO     :          12         128            2859        30.0
+INFO     :          13         125            2859        30.0
+INFO     :          14         127            2859        30.0
+INFO     :          15         127            2859        30.0
+INFO     :          16         130            2859        30.0
+INFO     :          17         131            2859        30.0
+INFO     :          18         129            2859        30.0
+INFO     :          19         129            2859        30.0
+INFO     :          20         129            2859        30.0
+INFO     :          21         135            2969        30.0
+INFO     :          22         137            2858        30.0
+INFO     :          23         148            2858        30.0
+INFO     :          24         147            2858        30.0
+INFO     :          25         145            2858        30.0
+INFO     :          26         146            2858        30.0
+INFO     :          27         153            2858        30.0
+INFO     :          28         151            2858        30.0
+INFO     :          29         151            2858        29.9
+INFO     :          30         151            2858        30.0
+INFO     :          31         154            2858        30.0
+INFO     :          32         154            2858        30.0
+INFO     : Generate /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO_after_qp.qdelay
+INFO     : Placement successful: 45 cells are placed
+INFO     : Peak congestion smeared over 1/4 of the chip is 0.00344817 at 0,0
+INFO     : Congestion-weighted HPWL per net: 1.68611
+INFO     : Reading placement constraints from '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.qplace'.
+INFO     : Finished Realigning Types (3 blocks needed type change)
+INFO     : Completed placement consistency check successfully.
+INFO     : Successfully created FPGA place file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.place'
+INFO     : Placement took 3.20198 seconds.
+INFO     : 	Placement took 4.61 seconds (approximately) in total CPU time.
+INFO     : Placement virtual memory usage: begin = 253.552 MB, end = 733.496 MB, delta = 479.944 MB
+INFO     : Placement resident set memory usage: begin = 113.74 MB, end = 530.1 MB, delta = 416.36 MB
+INFO     : 	Placement peak resident set memory usage = 1321.7 MB
+           ***** Ending stage placement *****
+           

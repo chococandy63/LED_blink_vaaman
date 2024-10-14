@@ -1,0 +1,80 @@
+Efinity Synthesis report for project LED_BLINKING_DEMO
+Version: 2024.1.163
+Generated at: Oct 14, 2024 18:22:40
+Copyright (C) 2013 - 2024  All rights reserved.
+
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
+Top-level Entity Name : led_blink
+
+### ### File List (begin) ### ### ###
+/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/led_blink.v
+### ### File List (end) ### ### ###
+
+
+### ### EFX_FF CE enables (begin) ### ### ###
+Total number of enable signals: 1
+Total number of FFs with enable signals: 1
+CE signal <n5>, number of controlling flip flops: 1
+### ### EFX_FF CE enables (end) ### ### ###
+
+### ### EFX_FF SR set/reset (begin) ### ### ###
+Total number of set/reset signals: 1
+Total number of FFs with set/reset signals: 41
+SR signal <n5>, number of controlling flip flops: 41
+### ### EFX_FF SR set/reset (end) ### ### ###
+
+### ### Module Resource Usage Distribution Estimates (begin) ### ###
+
+**Note: some resources maybe grouped under different hierarchy due to optimization and LUT mapping
+
+Module                        FFs        ADDs        LUTs      RAMs DSP/MULTs
+---------------------         ---        ----        ----      ---- ---------
+led_blink:led_blink        42(42)      23(23)        7(7)      0(0)      0(0)
+
+### ### Module Resource Usage Distribution Estimates (end) ### ###
+
+
+### ### Clock Load Distribution Report (begin) ### ###
+
+  Clock     Flip-Flops   Memory Ports    Multipliers
+  -----     ----------   ------------    -----------
+ clk_in             42              0              0
+
+### ### Clock Load Distribution Report (end) ### ###
+
+### ### EFX Flow Options (begin) ### ### ###
+
+family : Trion
+device : T120F324
+project : LED_BLINKING_DEMO
+project-xml : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/LED_BLINKING_DEMO.xml
+root : led_blink
+I,include : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO
+output-dir : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow
+work-dir : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_syn
+write-efx-verilog : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.map.v
+binary-db : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb
+insert-ios : 0
+max-carry-cascade : 640
+max_mult : -1
+max_ram : -1
+mode : speed
+veri_options : verilog_mode=verilog_2k,vhdl_mode=vhdl_2008
+
+### ### EFX Flow Options (end) ### ### ###
+
+### ### Resource Summary (begin) ### ### ### 
+INPUT  PORTS    : 	1
+OUTPUT PORTS    : 	4
+
+EFX_ADD         : 	23
+EFX_LUT4        : 	7
+   1-2  Inputs  : 	1
+   3    Inputs  : 	0
+   4    Inputs  : 	6
+EFX_FF          : 	42
+EFX_GBUFCE      : 	1
+### ### Resource Summary (end) ### ### ###
+
+Plain synthesis (without verilog dump and post-map checks) time : 6s
+Elapsed synthesis time : 6s

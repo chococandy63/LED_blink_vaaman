@@ -1,0 +1,104 @@
+INFO     : --max_threads set to 6 
+INFO     : --max_threads set to 6 
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+INFO     : VDB Netlist Checker took 0.00402456 seconds.
+INFO     : 	VDB Netlist Checker took 0.01 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 3146.35 MB, end = 3146.35 MB, delta = 0 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 170.036 MB, end = 170.036 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 177.364 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : Pass 0: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 0 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
+INFO     : Netlist pre-processing took 0.01114 seconds.
+INFO     : 	Netlist pre-processing took 0.02 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 3146.35 MB, end = 3146.43 MB, delta = 0.08 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 169.436 MB, end = 171.208 MB, delta = 1.772 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 177.364 MB
+           ***** Ending stage netlist pre-processing *****
+           
+INFO     : Read proto netlist file /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto
+INFO     : Read proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 0.000156 seconds
+INFO     : Setup net and block data structure took 0.001494 seconds
+INFO     : Run checks after load placement.
+INFO     : Read ipin pattern from /home/trinity/Downloads/efinity/2024.1/arch/./ipin_oph.xml
+INFO     : Finished parsing ipin pattern file '/home/trinity/Downloads/efinity/2024.1/arch/./ipin_oph.xdb'.
+INFO     : Finished parsing switch_block file '/home/trinity/Downloads/efinity/2024.1/arch/./sb_connectivity_subset.xdb'.
+INFO     : BuildGraph process took 17.3701 seconds.
+INFO     : 	BuildGraph process took 17.11 seconds (approximately) in total CPU time.
+INFO     : BuildGraph process virtual memory usage: begin = 3142.11 MB, end = 5347.25 MB, delta = 2205.14 MB
+INFO     : BuildGraph process resident set memory usage: begin = 189.092 MB, end = 2410 MB, delta = 2220.91 MB
+INFO     : 	BuildGraph process peak resident set memory usage = 2410 MB
+INFO     : check rr_graph process took 0.531651 seconds.
+INFO     : 	check rr_graph process took 0.55 seconds (approximately) in total CPU time.
+INFO     : check rr_graph process virtual memory usage: begin = 5503.19 MB, end = 5503.19 MB, delta = 0 MB
+INFO     : check rr_graph process resident set memory usage: begin = 2566.12 MB, end = 2566.2 MB, delta = 0.076 MB
+INFO     : 	check rr_graph process peak resident set memory usage = 2592.15 MB
+INFO     : Generated 6653427 RR nodes and 25233955 RR edges
+INFO     : This design has 0 global control net(s). See /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.pnr.rpt for details.
+INFO     : Reading route file, /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.route
+INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : No SDC file found.  Using default timing constraint of 1 ns.
+INFO     : NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+INFO     : Creating clock 'clk_in' with 1 sources
+INFO     : Deleting any pre-existing troute trace files
+INFO     : Deleting any pre-existing troute trace files
+INFO     : Deleting any pre-existing troute trace files
+INFO     : --max_threads set to 6 
+           ***** Beginning stage netlist pre-processing ... *****
+INFO     : Successfully Read in Verific binary Netlist dump file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
+INFO     : ***** Beginning VDB Netlist Checker ... *****
+INFO     : VDB Netlist Checker took 0.00301732 seconds.
+INFO     : 	VDB Netlist Checker took 0.01 seconds (approximately) in total CPU time.
+INFO     : VDB Netlist Checker virtual memory usage: begin = 4216.5 MB, end = 4216.5 MB, delta = 0 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 1309.81 MB, end = 1309.81 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 2592.15 MB
+INFO     : ***** Ending VDB Netlist Checker ... *****
+INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Found 0 constant generator nets.
+INFO     : Pass 0: Swept away 0 nets with no fanout.
+INFO     : Pass 0: Swept away 0 blocks with no fanout.
+INFO     : Swept away 0 nets and 0 blocks in total.
+INFO     : Removed 0 LUT buffers
+INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
+INFO     : Netlist pre-processing took 0.0128472 seconds.
+INFO     : 	Netlist pre-processing took 0.02 seconds (approximately) in total CPU time.
+INFO     : Netlist pre-processing virtual memory usage: begin = 4216.5 MB, end = 4216.58 MB, delta = 0.08 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 1309.81 MB, end = 1310.83 MB, delta = 1.024 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 2592.15 MB
+           ***** Ending stage netlist pre-processing *****
+           
+INFO     : Read proto netlist file /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto
+INFO     : Read proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 0.000108 seconds
+INFO     : Setup net and block data structure took 0.002083 seconds
+INFO     : Run checks after load placement.
+INFO     : Read ipin pattern from /home/trinity/Downloads/efinity/2024.1/arch/./ipin_oph.xml
+INFO     : Finished parsing ipin pattern file '/home/trinity/Downloads/efinity/2024.1/arch/./ipin_oph.xdb'.
+INFO     : Finished parsing switch_block file '/home/trinity/Downloads/efinity/2024.1/arch/./sb_connectivity_subset.xdb'.
+INFO     : BuildGraph process took 17.3963 seconds.
+INFO     : 	BuildGraph process took 17.16 seconds (approximately) in total CPU time.
+INFO     : BuildGraph process virtual memory usage: begin = 4216.58 MB, end = 6422.27 MB, delta = 2205.69 MB
+INFO     : BuildGraph process resident set memory usage: begin = 1331.82 MB, end = 3552.45 MB, delta = 2220.63 MB
+INFO     : 	BuildGraph process peak resident set memory usage = 3552.45 MB
+INFO     : check rr_graph process took 0.522235 seconds.
+INFO     : 	check rr_graph process took 0.55 seconds (approximately) in total CPU time.
+INFO     : check rr_graph process virtual memory usage: begin = 6422.27 MB, end = 6422.27 MB, delta = 0 MB
+INFO     : check rr_graph process resident set memory usage: begin = 3552.45 MB, end = 3552.45 MB, delta = 0 MB
+INFO     : 	check rr_graph process peak resident set memory usage = 3578.44 MB
+INFO     : Generated 6653427 RR nodes and 25233955 RR edges
+INFO     : This design has 0 global control net(s). See /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.pnr.rpt for details.
+INFO     : Reading route file, /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.route
+INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
+INFO     : No SDC file found.  Using default timing constraint of 1 ns.
+INFO     : NOTE:  Use --sdc_file <SDC_FILE> to override this behavior.
+INFO     : Creating clock 'clk_in' with 1 sources

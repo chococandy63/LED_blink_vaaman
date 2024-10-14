@@ -1,0 +1,16 @@
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 14, 2024 18:08:58
+///////////////////////////////////
+
+[EFX-0011 VERI-WARNING] expression size 25 truncated to fit in target size 24 (VERI-1209) (/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/led_blink.v:22)
+[EFX-0008 WARNING] Top module not specified. Using module 'led_blink' as top module for the design.
+
+///////////////////////////////////
+// Efinity Synthesis Started 
+// Oct 14, 2024 18:22:40
+///////////////////////////////////
+
+[EFX-0011 VERI-WARNING] expression size 25 truncated to fit in target size 24 (VERI-1209) (/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/led_blink.v:22)
+[EFX-0008 WARNING] Top module not specified. Using module 'led_blink' as top module for the design.

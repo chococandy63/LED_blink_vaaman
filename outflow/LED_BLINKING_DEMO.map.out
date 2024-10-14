@@ -28,11 +28,11 @@ INFO     : default VHDL library search path is now "/home/trinity/Downloads/efin
 INFO     : Analyzing Verilog file '/home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_maplib.v' [VERI-1482]
 INFO     : Analyzing Verilog file '/home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_peri_lib.v' [VERI-1482]
 INFO     : Analyzing Verilog file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/led_blink.v' [VERI-1482]
-INFO     : Analysis took 0.0103044 seconds.
+INFO     : Analysis took 0.00676154 seconds.
 INFO     : 	Analysis took 0.01 seconds (approximately) in total CPU time.
-INFO     : Analysis virtual memory usage: begin = 201.684 MB, end = 201.684 MB, delta = 0 MB
-INFO     : Analysis resident set memory usage: begin = 73.66 MB, end = 74.536 MB, delta = 0.876 MB
-INFO     : 	Analysis peak resident set memory usage = 1321.58 MB
+INFO     : Analysis virtual memory usage: begin = 201.688 MB, end = 201.688 MB, delta = 0 MB
+INFO     : Analysis resident set memory usage: begin = 73.668 MB, end = 74.544 MB, delta = 0.876 MB
+INFO     : 	Analysis peak resident set memory usage = 2252.4 MB
 INFO     : ***** Ending Analysis ... *****
 INFO     : ***** Beginning Elaboration ... *****
 INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_maplib.v(8): compiling module 'EFX_ADD' [VERI-1018]
@@ -70,11 +70,11 @@ INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_peri_
 INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_peri_lib.v(267): compiling module 'EFX_OSC_V1' [VERI-1018]
 INFO     : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/led_blink.v(1): compiling module 'led_blink' [VERI-1018]
 WARNING  : /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/led_blink.v(22): expression size 25 truncated to fit in target size 24 [VERI-1209]
-INFO     : Elaboration took 0.0123771 seconds.
+INFO     : Elaboration took 0.00775078 seconds.
 INFO     : 	Elaboration took 0.01 seconds (approximately) in total CPU time.
-INFO     : Elaboration virtual memory usage: begin = 201.684 MB, end = 202.708 MB, delta = 1.024 MB
-INFO     : Elaboration resident set memory usage: begin = 74.536 MB, end = 75.688 MB, delta = 1.152 MB
-INFO     : 	Elaboration peak resident set memory usage = 1321.58 MB
+INFO     : Elaboration virtual memory usage: begin = 201.688 MB, end = 202.712 MB, delta = 1.024 MB
+INFO     : Elaboration resident set memory usage: begin = 74.544 MB, end = 75.696 MB, delta = 1.152 MB
+INFO     : 	Elaboration peak resident set memory usage = 2252.4 MB
 INFO     : ***** Ending Elaboration ... *****
 WARNING  : Top module not specified. Using module 'led_blink' as top module for the design. [EFX-0008]
 INFO     : ... Setting Synthesis Option: mode=speed
@@ -97,50 +97,50 @@ INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_mapli
 INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_maplib.v(653): compiling module 'EFX_RAM10' [VERI-1018]
 INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_maplib.v(754): compiling module 'EFX_DPRAM10' [VERI-1018]
 INFO     : /home/trinity/Downloads/efinity/2024.1/sim_models/maplib/efinix_maplib.v(884): compiling module 'EFX_SRL8' [VERI-1018]
-INFO     : Reading Mapping Library took 0.0165475 seconds.
-INFO     : 	Reading Mapping Library took 0.02 seconds (approximately) in total CPU time.
-INFO     : Reading Mapping Library virtual memory usage: begin = 202.708 MB, end = 203.732 MB, delta = 1.024 MB
-INFO     : Reading Mapping Library resident set memory usage: begin = 76.316 MB, end = 76.828 MB, delta = 0.512 MB
-INFO     : 	Reading Mapping Library peak resident set memory usage = 1321.58 MB
+INFO     : Reading Mapping Library took 0.00983144 seconds.
+INFO     : 	Reading Mapping Library took 0.01 seconds (approximately) in total CPU time.
+INFO     : Reading Mapping Library virtual memory usage: begin = 202.712 MB, end = 203.736 MB, delta = 1.024 MB
+INFO     : Reading Mapping Library resident set memory usage: begin = 76.324 MB, end = 76.836 MB, delta = 0.512 MB
+INFO     : 	Reading Mapping Library peak resident set memory usage = 2252.4 MB
 INFO     : ***** Ending Reading Mapping Library ... *****
 INFO     : ... Pre-synthesis checks begin
-INFO     : ... Pre-synthesis checks end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Pre-synthesis checks end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... NameSpace init begin
-INFO     : ... NameSpace init end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... NameSpace init end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Mapping design "led_blink"
 INFO     : ... Hierarchical pre-synthesis "led_blink" begin
-INFO     : ... Hierarchical pre-synthesis "led_blink" end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Hierarchical pre-synthesis "led_blink" end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Flat optimizations begin
-INFO     : ... Flat optimizations end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Flat optimizations end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Flat synthesis begin
-INFO     : ... Flat synthesis end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Flat synthesis end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Flat optimizations begin
-INFO     : ... Flat optimizations end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Flat optimizations end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Check and break combinational loops begin
-INFO     : ... Check and break combinational loops end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Check and break combinational loops end (Real time : 0s CPU user time : 4s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Sequential Optimization begin
 INFO     : ... Clock Network 'clk_in' with 28 loads will be considered for sequential optimization.
 INFO     : ... Sequential Optimization deduced 3 equivalent points.
-INFO     : ... Sequential Optimization end (Real time : 3s CPU user time : 10s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Sequential Optimization end (Real time : 3s CPU user time : 7s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Setup for logic synthesis begin
-INFO     : ... Setup for logic synthesis end (Real time : 0s CPU user time : 10s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Setup for logic synthesis end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... LUT mapping begin
 INFO     : ... LS, strategy: 3, nd: 7, ed: 26, lv: 3, pw: 52.70
-INFO     : ... LUT mapping end (Real time : 0s CPU user time : 10s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... LUT mapping end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Post-synthesis Verific netlist creation begin
-INFO     : ... Post-synthesis Verific netlist creation end (Real time : 0s CPU user time : 10s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Post-synthesis Verific netlist creation end (Real time : 0s CPU user time : 7s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Postmap Retiming Optimization begin
 INFO     : ... Clock Network 'clk_in' with 25 loads will be considered for retiming optimization.
 INFO     : ... Performed 5 retime moves.
-INFO     : ... Postmap Retiming Optimization end (Real time : 3s CPU user time : 12s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Postmap Retiming Optimization end (Real time : 3s CPU user time : 10s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ... Post-synthesis Verific netlist unification/params processing begin
-INFO     : ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s CPU user time : 12s CPU sys time : 0s MEM : 1321580KB)
+INFO     : ... Post-synthesis Verific netlist unification/params processing end (Real time : 0s CPU user time : 10s CPU sys time : 0s MEM : 2252400KB)
 INFO     : ***** Beginning VDB Netlist Checker ... *****
-INFO     : VDB Netlist Checker took 0.00103562 seconds.
+INFO     : VDB Netlist Checker took 0.0010579 seconds.
 INFO     : 	VDB Netlist Checker took 0 seconds (approximately) in total CPU time.
 INFO     : VDB Netlist Checker virtual memory usage: begin = 237.124 MB, end = 237.124 MB, delta = 0 MB
-INFO     : VDB Netlist Checker resident set memory usage: begin = 118.168 MB, end = 118.168 MB, delta = 0 MB
-INFO     : 	VDB Netlist Checker peak resident set memory usage = 1321.58 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 117.672 MB, end = 117.672 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 2252.4 MB
 INFO     : ***** Ending VDB Netlist Checker ... *****
 INFO     : Writing netlist 'led_blink' to Verilog file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.map.v' [VDB-1030]
 INFO     : Resource Summary 

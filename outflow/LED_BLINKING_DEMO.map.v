@@ -552,61 +552,61 @@ module led_blink (clk_in, led_1, led_2, led_3, led_4);
 endmodule
 
 //
-// Verific Verilog Description of module EFX_LUT4_300545a9_0
+// Verific Verilog Description of module EFX_LUT4_3eb12f96_0
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_FF_300545a9_0
+// Verific Verilog Description of module EFX_FF_3eb12f96_0
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_FF_300545a9_1
+// Verific Verilog Description of module EFX_FF_3eb12f96_1
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_ADD_300545a9_0
+// Verific Verilog Description of module EFX_ADD_3eb12f96_0
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_ADD_300545a9_1
+// Verific Verilog Description of module EFX_ADD_3eb12f96_1
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_LUT4_300545a9_1
+// Verific Verilog Description of module EFX_LUT4_3eb12f96_1
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_LUT4_300545a9_2
+// Verific Verilog Description of module EFX_LUT4_3eb12f96_2
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_LUT4_300545a9_3
+// Verific Verilog Description of module EFX_LUT4_3eb12f96_3
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_LUT4_300545a9_4
+// Verific Verilog Description of module EFX_LUT4_3eb12f96_4
 // module not written out since it is a black box. 
 //
 
 
 //
-// Verific Verilog Description of module EFX_GBUFCE_300545a9_0
+// Verific Verilog Description of module EFX_GBUFCE_3eb12f96_0
 // module not written out since it is a black box. 
 //
 

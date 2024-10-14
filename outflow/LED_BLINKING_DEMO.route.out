@@ -16,23 +16,23 @@ INFO     : Running Placement and Routing for Family "Trion", Device "T120F324" .
 INFO     : Read ipin pattern from /home/trinity/Downloads/efinity/2024.1/arch/./ipin_oph.xml
 INFO     : Finished parsing ipin pattern file '/home/trinity/Downloads/efinity/2024.1/arch/./ipin_oph.xdb'.
 INFO     : Finished parsing switch_block file '/home/trinity/Downloads/efinity/2024.1/arch/./sb_connectivity_subset.xdb'.
-INFO     : BuildGraph process took 14.1838 seconds.
-INFO     : 	BuildGraph process took 13.94 seconds (approximately) in total CPU time.
-INFO     : BuildGraph process virtual memory usage: begin = 733.496 MB, end = 2155.45 MB, delta = 1421.95 MB
-INFO     : BuildGraph process resident set memory usage: begin = 530.468 MB, end = 1946.64 MB, delta = 1416.17 MB
-INFO     : 	BuildGraph process peak resident set memory usage = 1946.64 MB
-INFO     : check rr_graph process took 0.459097 seconds.
-INFO     : 	check rr_graph process took 0.45 seconds (approximately) in total CPU time.
-INFO     : check rr_graph process virtual memory usage: begin = 2311.39 MB, end = 2343.89 MB, delta = 32.496 MB
-INFO     : check rr_graph process resident set memory usage: begin = 2102.58 MB, end = 2135.47 MB, delta = 32.892 MB
-INFO     : 	check rr_graph process peak resident set memory usage = 2135.47 MB
+INFO     : BuildGraph process took 14.283 seconds.
+INFO     : 	BuildGraph process took 14 seconds (approximately) in total CPU time.
+INFO     : BuildGraph process virtual memory usage: begin = 733.496 MB, end = 2154.82 MB, delta = 1421.32 MB
+INFO     : BuildGraph process resident set memory usage: begin = 531.332 MB, end = 1946.78 MB, delta = 1415.45 MB
+INFO     : 	BuildGraph process peak resident set memory usage = 2252.63 MB
+INFO     : check rr_graph process took 0.464835 seconds.
+INFO     : 	check rr_graph process took 0.46 seconds (approximately) in total CPU time.
+INFO     : check rr_graph process virtual memory usage: begin = 2310.76 MB, end = 2343.26 MB, delta = 32.496 MB
+INFO     : check rr_graph process resident set memory usage: begin = 2102.72 MB, end = 2135.67 MB, delta = 32.952 MB
+INFO     : 	check rr_graph process peak resident set memory usage = 2252.63 MB
 INFO     : Generated 6653427 RR nodes and 25233955 RR edges
 INFO     : This design has 0 global control net(s). See /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.route.rpt for details.
-INFO     : Routing graph took 14.8976 seconds.
-INFO     : 	Routing graph took 14.65 seconds (approximately) in total CPU time.
-INFO     : Routing graph virtual memory usage: begin = 733.496 MB, end = 2343.89 MB, delta = 1610.39 MB
-INFO     : Routing graph resident set memory usage: begin = 530.1 MB, end = 2135.6 MB, delta = 1605.5 MB
-INFO     : 	Routing graph peak resident set memory usage = 2135.6 MB
+INFO     : Routing graph took 15.0117 seconds.
+INFO     : 	Routing graph took 14.7 seconds (approximately) in total CPU time.
+INFO     : Routing graph virtual memory usage: begin = 733.496 MB, end = 2343.26 MB, delta = 1609.76 MB
+INFO     : Routing graph resident set memory usage: begin = 530.964 MB, end = 2135.8 MB, delta = 1604.83 MB
+INFO     : 	Routing graph peak resident set memory usage = 2252.63 MB
            ***** Ending stage routing graph generation *****
            
            ***** Beginning stage routing ... *****
@@ -42,15 +42,15 @@ INFO     : Creating clock 'clk_in' with 1 sources
 INFO     :  ---------      -------     --------------      -------------
 INFO     :  Iteration      Overuse     Crit Path (ns)      Calc Time (s)
 INFO     :  ---------      -------     --------------      -------------
-INFO     :          1           23              3.219              0.125
-INFO     :          2           18              3.143             0.0979
-INFO     :          3           10              3.143             0.0977
-INFO     :          4            4              3.143             0.0955
-INFO     :          5            3              3.143             0.0947
-INFO     :          6            1              3.143             0.0946
-INFO     :          7            2              3.143             0.0945
-INFO     :          8            1              3.143             0.0898
-INFO     :          9            0              3.479             0.0911
+INFO     :          1           23              3.219              0.128
+INFO     :          2           18              3.143             0.0975
+INFO     :          3           10              3.143             0.0984
+INFO     :          4            4              3.143              0.095
+INFO     :          5            3              3.143              0.098
+INFO     :          6            1              3.143              0.094
+INFO     :          7            2              3.143             0.0902
+INFO     :          8            1              3.143              0.092
+INFO     :          9            0              3.479              0.096
            
 INFO     : Successfully routed netlist after 9 routing iterations and 112656 heapops
 INFO     : Completed net delay value cross check successfully.
@@ -60,11 +60,11 @@ INFO     : Completed net delay value cross check successfully.
 INFO     : Serial number (magic cookie) for the routing is: 389894631
 INFO     : Netlist fully routed.
 INFO     : Successfully created FPGA route file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.route'
-INFO     : Routing took 1.52021 seconds.
-INFO     : 	Routing took 2.01 seconds (approximately) in total CPU time.
-INFO     : Routing virtual memory usage: begin = 2343.89 MB, end = 2707.75 MB, delta = 363.864 MB
-INFO     : Routing resident set memory usage: begin = 2135.6 MB, end = 2467.5 MB, delta = 331.904 MB
-INFO     : 	Routing peak resident set memory usage = 2467.77 MB
+INFO     : Routing took 1.54487 seconds.
+INFO     : 	Routing took 1.97 seconds (approximately) in total CPU time.
+INFO     : Routing virtual memory usage: begin = 2343.26 MB, end = 2707.12 MB, delta = 363.864 MB
+INFO     : Routing resident set memory usage: begin = 2135.8 MB, end = 2467.87 MB, delta = 332.076 MB
+INFO     : 	Routing peak resident set memory usage = 2467.87 MB
            ***** Ending stage routing *****
            
            ***** Beginning stage final timing analysis ... *****
@@ -87,26 +87,26 @@ Hold (Min) Clock Relationship
 
 WARNING  : Clock domain between clk_in (rising) and clk_in (rising) may not meet (slack: -2.635 ns) the setup (max) timing requirement
 INFO     : Write Timing Report to "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.timing.rpt" ...
-INFO     : final timing analysis took 0.0787174 seconds.
+INFO     : final timing analysis took 0.0788692 seconds.
 INFO     : 	final timing analysis took 0.07 seconds (approximately) in total CPU time.
-INFO     : final timing analysis virtual memory usage: begin = 2707.75 MB, end = 2707.75 MB, delta = 0 MB
-INFO     : final timing analysis resident set memory usage: begin = 2467.63 MB, end = 2467.89 MB, delta = 0.256 MB
-INFO     : 	final timing analysis peak resident set memory usage = 2467.89 MB
+INFO     : final timing analysis virtual memory usage: begin = 2707.12 MB, end = 2707.12 MB, delta = 0 MB
+INFO     : final timing analysis resident set memory usage: begin = 2468 MB, end = 2468.26 MB, delta = 0.256 MB
+INFO     : 	final timing analysis peak resident set memory usage = 2468.26 MB
            ***** Ending stage final timing analysis *****
            
            ***** Beginning stage bitstream generation ... *****
 INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
 INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
 INFO     : Finished writing bitstream file /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.lbf.
-INFO     : Bitstream generation took 2.74241 seconds.
-INFO     : 	Bitstream generation took 2.68 seconds (approximately) in total CPU time.
-INFO     : Bitstream generation virtual memory usage: begin = 2707.75 MB, end = 2707.75 MB, delta = 0 MB
-INFO     : Bitstream generation resident set memory usage: begin = 2467.89 MB, end = 2407.99 MB, delta = -59.896 MB
-INFO     : 	Bitstream generation peak resident set memory usage = 2469.22 MB
+INFO     : Bitstream generation took 2.78572 seconds.
+INFO     : 	Bitstream generation took 2.7 seconds (approximately) in total CPU time.
+INFO     : Bitstream generation virtual memory usage: begin = 2707.12 MB, end = 2707.12 MB, delta = 0 MB
+INFO     : Bitstream generation resident set memory usage: begin = 2468.26 MB, end = 2469.33 MB, delta = 1.076 MB
+INFO     : 	Bitstream generation peak resident set memory usage = 2469.33 MB
            ***** Ending stage bitstream generation *****
            
-INFO     : The entire flow of EFX_PNR took 30.2758 seconds.
-INFO     : 	The entire flow of EFX_PNR took 31.82 seconds (approximately) in total CPU time.
-INFO     : The entire flow of EFX_PNR virtual memory usage: begin = 182.62 MB, end = 2707.75 MB, delta = 2525.13 MB
-INFO     : The entire flow of EFX_PNR resident set memory usage: begin = 35.68 MB, end = 2407.99 MB, delta = 2372.31 MB
-INFO     : 	The entire flow of EFX_PNR peak resident set memory usage = 2469.22 MB
+INFO     : The entire flow of EFX_PNR took 28.3203 seconds.
+INFO     : 	The entire flow of EFX_PNR took 29.63 seconds (approximately) in total CPU time.
+INFO     : The entire flow of EFX_PNR virtual memory usage: begin = 182.62 MB, end = 2707.12 MB, delta = 2524.5 MB
+INFO     : The entire flow of EFX_PNR resident set memory usage: begin = 35.648 MB, end = 2469.33 MB, delta = 2433.68 MB
+INFO     : 	The entire flow of EFX_PNR peak resident set memory usage = 2469.33 MB

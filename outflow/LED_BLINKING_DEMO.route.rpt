@@ -1,7 +1,7 @@
 
 Efinix FPGA Placement and Routing.
 Version: 2024.1.163 
-Date: Mon Oct 14 18:55:07 2024
+Date: Tue Oct 15 16:08:22 2024
 
 Copyright (C) 2013 - 2024 Efinix, Inc. All rights reserved.
  
@@ -9,4 +9,4 @@ Family: Trion
 Device: T120F324
 Top-level Entity Name: LED_BLINKING_DEMO
 Elapsed time for routing: 0 hours 0 minutes 1 seconds
-Elapsed time for entire flow: 0 hours 0 minutes 28 seconds
+Elapsed time for entire flow: 0 hours 0 minutes 27 seconds

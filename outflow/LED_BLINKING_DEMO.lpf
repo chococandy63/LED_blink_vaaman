@@ -2,7 +2,7 @@
 <efxpt:periphery design="LED_BLINKING_DEMO" device="T120F324" xmlns:efxpt="http://www.efinixinc.com/peri_device_db" xmlns:efxutil="http://www.efinixinc.com/peri_tool" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.efinixinc.com/peri_device_db lpf.xsd">
   <!-- Efinity Logical Peripheral File -->
   <!-- Version: 2024.1.163 -->
-  <!-- Date: 2024-10-14 18:54 -->
+  <!-- Date: 2024-10-15 16:08 -->
   <!-- Copyright (C) 2013 - 2024 Efinix Inc. All rights reserved. -->
   <efxpt:sequence size="333">
     <efxpt:instance id="GPIOL_00" index="0" type="gpio"/>

@@ -1,290 +1,256 @@
 placed { cell: "count[0]~FF" site: eft }
-placed { cell: "led_4~FF" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_51" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_50" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_49" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_48" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_47" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_46" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_45" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_44" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_43" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_42" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_41" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_40" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_39" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_38" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_37" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_36" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_35" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_34" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_33" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_32" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_31" site: eft }
-placed { cell: "count[1]~FF_frt_13_frt_30" site: eft }
-placed { cell: "count[1]~FF_frt_26_frt_29" site: eft }
-placed { cell: "count[12]~FF_frt_4" site: eft }
-placed { cell: "count[16]~FF_frt_3" site: eft }
-placed { cell: "count[20]~FF_frt_2" site: eft }
-placed { cell: "count[11]~FF_frt_5" site: eft }
-placed { cell: "count[1]~FF_frt_16" site: eft }
-placed { cell: "count[1]~FF_frt_17" site: eft }
-placed { cell: "count[1]~FF_frt_18" site: eft }
-placed { cell: "count[1]~FF_frt_19" site: eft }
+placed { cell: "led_1~FF" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_48" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_47" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_46" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_45" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_44" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_43" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_42" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_41" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_40" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_39" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_38" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_37" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_36" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_35" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_34" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_33" site: eft }
+placed { cell: "count[17]~FF" site: eft }
+placed { cell: "count[18]~FF" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_32" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_31" site: eft }
+placed { cell: "count[1]~FF_frt_11_frt_30" site: eft }
+placed { cell: "count[1]~FF_frt_16_frt_29" site: eft }
+placed { cell: "count[1]~FF_frt_23_frt_28" site: eft }
+placed { cell: "count[19]~FF_frt_0_frt_3" site: eft }
+placed { cell: "count[11]~FF_frt_4" site: eft }
+placed { cell: "count[1]~FF_frt_15" site: eft }
 placed { cell: "count[1]~FF_frt_20" site: eft }
 placed { cell: "count[1]~FF_frt_21" site: eft }
 placed { cell: "count[1]~FF_frt_22" site: eft }
-placed { cell: "count[1]~FF_frt_23" site: eft }
-placed { cell: "count[1]~FF_frt_24" site: eft }
-placed { cell: "count[1]~FF_frt_25" site: eft }
-placed { cell: "count[1]~FF_frt_28" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_52" site: eft }
-placed { cell: "count[1]~FF_frt_6_frt_53" site: eft }
+placed { cell: "count[1]~FF_frt_27" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_49" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_50" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_51" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_52" site: eft }
+placed { cell: "count[1]~FF_frt_5_frt_53" site: eft }
 placed { cell: "clk_in" site: io }
 placed { cell: "led_1" site: io }
-placed { cell: "led_2" site: io }
-placed { cell: "led_3" site: io }
-placed { cell: "led_4" site: io }
-placed { cell: "VCC" site: eft }
-placed { cell: "GND" site: eft }
-placed { cell: "LUT__226" site: eft }
+placed { cell: "VCC" site: efl }
+placed { cell: "GND" site: efl }
+placed { cell: "LUT__222" site: eft }
 placed { cell: "CLKBUF__0" site: gbuf_block }
 route { driver { cell: "count[0]~FF" port: "O_seq" } sink { cell: "count[0]~FF" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[0]~FF" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_31" port: "I[1]" } delay_max: 437 delay_min: 0  }
+route { driver { cell: "count[0]~FF" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_31" port: "I[1]" } delay_max: 437 delay_min: 0  }
 route { driver { cell: "VCC" port: "O" } sink { cell: "count[0]~FF" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_51" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_50" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_49" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_48" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_47" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_46" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_45" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_44" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_43" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_42" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_41" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_40" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_39" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_38" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_37" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_36" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_35" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_34" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_33" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_32" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_31" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_26_frt_29" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[12]~FF_frt_4" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[16]~FF_frt_3" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[20]~FF_frt_2" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[11]~FF_frt_5" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_16" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_17" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_18" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_19" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_48" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_47" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_46" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_45" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_44" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_43" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_42" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_41" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_40" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_39" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_38" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_37" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_36" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_35" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_34" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_33" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[17]~FF" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[18]~FF" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_32" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_31" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[19]~FF_frt_0_frt_3" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[11]~FF_frt_4" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_15" port: "CE" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_20" port: "CE" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_21" port: "CE" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_22" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_23" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_24" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_25" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_28" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_52" port: "CE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_53" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_27" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_49" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_50" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_51" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_52" port: "CE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "VCC" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_53" port: "CE" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "VCC" port: "O" } sink { cell: "CLKBUF__0" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[0]~FF" port: "RE" } delay_max: 438 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "led_4~FF" port: "CE" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_51" port: "RE" } delay_max: 759 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_50" port: "RE" } delay_max: 759 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_49" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_48" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_47" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_46" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_45" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_44" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_43" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_42" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_41" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_40" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_39" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_38" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_37" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_36" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_35" port: "RE" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_34" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_33" port: "RE" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_32" port: "RE" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_31" port: "RE" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "RE" } delay_max: 438 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_26_frt_29" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[12]~FF_frt_4" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[16]~FF_frt_3" port: "RE" } delay_max: 438 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[20]~FF_frt_2" port: "RE" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[11]~FF_frt_5" port: "RE" } delay_max: 438 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_16" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_17" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_18" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_19" port: "RE" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_20" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_21" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_22" port: "RE" } delay_max: 438 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_23" port: "RE" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_24" port: "RE" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_25" port: "RE" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_28" port: "RE" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_52" port: "RE" } delay_max: 759 delay_min: 0  }
-route { driver { cell: "LUT__226" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_53" port: "RE" } delay_max: 1029 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[0]~FF" port: "RE" } delay_max: 751 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "led_1~FF" port: "CE" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_48" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_47" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_46" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_45" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_44" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_43" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_42" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_41" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_40" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_39" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_38" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_37" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_36" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_35" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_34" port: "RE" } delay_max: 751 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_33" port: "RE" } delay_max: 1024 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[17]~FF" port: "RE" } delay_max: 525 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[18]~FF" port: "RE" } delay_max: 437 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_32" port: "RE" } delay_max: 1024 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_31" port: "RE" } delay_max: 751 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "RE" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "RE" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "RE" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[19]~FF_frt_0_frt_3" port: "RE" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[11]~FF_frt_4" port: "RE" } delay_max: 437 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_15" port: "RE" } delay_max: 437 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_20" port: "RE" } delay_max: 525 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_21" port: "RE" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_22" port: "RE" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_27" port: "RE" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_49" port: "RE" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_50" port: "RE" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_51" port: "RE" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_52" port: "RE" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "LUT__222" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_53" port: "RE" } delay_max: 438 delay_min: 0  }
 route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[0]~FF" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "led_4~FF" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_51" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_50" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_49" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_48" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_47" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_46" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_45" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_44" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_43" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_42" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_41" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_40" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_39" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_38" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_37" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_36" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_35" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_34" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_33" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_32" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_31" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_26_frt_29" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[12]~FF_frt_4" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[16]~FF_frt_3" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[20]~FF_frt_2" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[11]~FF_frt_5" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_16" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_17" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_18" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_19" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "led_1~FF" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_48" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_47" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_46" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_45" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_44" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_43" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_42" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_41" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_40" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_39" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_38" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_37" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_36" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_35" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_34" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_33" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[17]~FF" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[18]~FF" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_32" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_31" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[19]~FF_frt_0_frt_3" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[11]~FF_frt_4" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_15" port: "clk" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_20" port: "clk" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_21" port: "clk" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_22" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_23" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_24" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_25" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_28" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_52" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_6_frt_53" port: "clk" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "led_4~FF" port: "O_seq" } sink { cell: "led_4~FF" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "led_4~FF" port: "O_seq" } sink { cell: "led_1" port: "outpad" } delay_max: 13334 delay_min: 0  }
-route { driver { cell: "led_4~FF" port: "O_seq" } sink { cell: "led_2" port: "outpad" } delay_max: 13334 delay_min: 0  }
-route { driver { cell: "led_4~FF" port: "O_seq" } sink { cell: "led_3" port: "outpad" } delay_max: 13431 delay_min: 0  }
-route { driver { cell: "led_4~FF" port: "O_seq" } sink { cell: "led_4" port: "outpad" } delay_max: 13108 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "led_4~FF" port: "RE" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_51" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_50" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_49" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_48" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_47" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_46" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_45" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_44" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_43" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_42" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_41" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_40" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_39" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_38" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_37" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_36" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_35" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_34" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_33" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_32" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_52" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_6_frt_53" port: "I[1]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_51" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_51" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_51" port: "O_seq" } sink { cell: "count[1]~FF_frt_26_frt_29" port: "I[0]" } delay_max: 751 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_50" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_51" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_51" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_52" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_50" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_50" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_50" port: "O_seq" } sink { cell: "count[1]~FF_frt_25" port: "I[1]" } delay_max: 795 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_49" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_50" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_49" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_49" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_49" port: "O_seq" } sink { cell: "count[1]~FF_frt_24" port: "I[1]" } delay_max: 1401 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_48" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_49" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_48" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_48" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_48" port: "O_seq" } sink { cell: "count[1]~FF_frt_23" port: "I[1]" } delay_max: 1069 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_47" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_48" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_47" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_47" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_47" port: "O_seq" } sink { cell: "count[1]~FF_frt_22" port: "I[1]" } delay_max: 1037 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_46" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_47" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_46" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_46" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_46" port: "O_seq" } sink { cell: "count[1]~FF_frt_21" port: "I[1]" } delay_max: 751 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_45" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_46" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_45" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_45" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_45" port: "O_seq" } sink { cell: "count[1]~FF_frt_20" port: "I[1]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_44" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_45" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_44" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_44" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_44" port: "O_seq" } sink { cell: "count[1]~FF_frt_19" port: "I[1]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_43" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_44" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_43" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_43" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_43" port: "O_seq" } sink { cell: "count[1]~FF_frt_18" port: "I[1]" } delay_max: 751 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_42" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_43" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_42" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_42" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_42" port: "O_seq" } sink { cell: "count[1]~FF_frt_17" port: "I[1]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_41" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_42" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_41" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_41" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_41" port: "O_seq" } sink { cell: "count[1]~FF_frt_16" port: "I[1]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_40" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_41" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_40" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_40" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_40" port: "O_seq" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "I[3]" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_39" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_40" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_39" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_39" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_39" port: "O_seq" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "I[2]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_38" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_39" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_38" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_38" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_38" port: "O_seq" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "I[0]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_37" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_38" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_37" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_37" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_37" port: "O_seq" } sink { cell: "count[1]~FF_frt_13_frt_30" port: "I[1]" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_36" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_37" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_36" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_36" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_35" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_36" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_35" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_35" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_34" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_35" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_34" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_34" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_33" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_34" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_33" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_33" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_32" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_33" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_32" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_32" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_31" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_32" port: "cin" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_31" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_31" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_13_frt_30" port: "O_seq" } sink { cell: "count[11]~FF_frt_5" port: "I[3]" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_52" port: "O_seq" } sink { cell: "count[1]~FF_frt_26_frt_29" port: "I[1]" } delay_max: 1024 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_52" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_52" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_26_frt_29" port: "O_seq" } sink { cell: "count[16]~FF_frt_3" port: "I[3]" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_26_frt_29" port: "O_seq" } sink { cell: "count[20]~FF_frt_2" port: "I[2]" } delay_max: 1313 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_17" port: "O_seq" } sink { cell: "count[12]~FF_frt_4" port: "I[0]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_18" port: "O_seq" } sink { cell: "count[12]~FF_frt_4" port: "I[1]" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_18" port: "O_seq" } sink { cell: "count[11]~FF_frt_5" port: "I[1]" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_19" port: "O_seq" } sink { cell: "count[12]~FF_frt_4" port: "I[2]" } delay_max: 755 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_19" port: "O_seq" } sink { cell: "count[11]~FF_frt_5" port: "I[2]" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_20" port: "O_seq" } sink { cell: "count[12]~FF_frt_4" port: "I[3]" } delay_max: 481 delay_min: 0  }
-route { driver { cell: "count[12]~FF_frt_4" port: "O_seq" } sink { cell: "LUT__226" port: "I[1]" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_21" port: "O_seq" } sink { cell: "count[16]~FF_frt_3" port: "I[0]" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_22" port: "O_seq" } sink { cell: "count[16]~FF_frt_3" port: "I[1]" } delay_max: 995 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_23" port: "O_seq" } sink { cell: "count[16]~FF_frt_3" port: "I[2]" } delay_max: 1069 delay_min: 0  }
-route { driver { cell: "count[16]~FF_frt_3" port: "O_seq" } sink { cell: "LUT__226" port: "I[2]" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_25" port: "O_seq" } sink { cell: "count[20]~FF_frt_2" port: "I[0]" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_24" port: "O_seq" } sink { cell: "count[20]~FF_frt_2" port: "I[1]" } delay_max: 525 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_28" port: "O_seq" } sink { cell: "count[20]~FF_frt_2" port: "I[3]" } delay_max: 1043 delay_min: 0  }
-route { driver { cell: "count[20]~FF_frt_2" port: "O_seq" } sink { cell: "LUT__226" port: "I[3]" } delay_max: 438 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_16" port: "O_seq" } sink { cell: "count[11]~FF_frt_5" port: "I[0]" } delay_max: 485 delay_min: 0  }
-route { driver { cell: "count[11]~FF_frt_5" port: "O_seq" } sink { cell: "LUT__226" port: "I[0]" } delay_max: 437 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_53" port: "O_seq" } sink { cell: "count[1]~FF_frt_28" port: "I[1]" } delay_max: 751 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_53" port: "O_seq" } sink { cell: "count[1]~FF_frt_6_frt_53" port: "I[0]" } delay_max: 0 delay_min: 0  }
-route { driver { cell: "count[1]~FF_frt_6_frt_52" port: "cout" } sink { cell: "count[1]~FF_frt_6_frt_53" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_27" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_49" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_50" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_51" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_52" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "CLKBUF__0" port: "clkout" } sink { cell: "count[1]~FF_frt_5_frt_53" port: "clk" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "led_1~FF" port: "O_seq" } sink { cell: "led_1~FF" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "led_1~FF" port: "O_seq" } sink { cell: "led_1" port: "outpad" } delay_max: 13157 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "led_1~FF" port: "RE" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_48" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_47" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_46" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_45" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_44" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_43" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_42" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_41" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_40" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_39" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_38" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_37" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_36" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_35" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_34" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_33" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_32" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_49" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_50" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_51" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_52" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "GND" port: "O" } sink { cell: "count[1]~FF_frt_5_frt_53" port: "I[1]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_48" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_48" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_48" port: "O_seq" } sink { cell: "count[1]~FF_frt_22" port: "I[1]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_47" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_48" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_48" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_49" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_47" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_47" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_47" port: "O_seq" } sink { cell: "count[1]~FF_frt_21" port: "I[1]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_46" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_47" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_46" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_46" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_46" port: "O_seq" } sink { cell: "count[1]~FF_frt_20" port: "I[1]" } delay_max: 799 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_45" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_46" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_45" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_45" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_45" port: "O_seq" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "I[3]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_44" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_45" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_44" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_44" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_44" port: "O_seq" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "I[2]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_43" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_44" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_43" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_43" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_43" port: "O_seq" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "I[1]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_42" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_43" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_42" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_42" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_42" port: "O_seq" } sink { cell: "count[1]~FF_frt_16_frt_29" port: "I[0]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_41" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_42" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_41" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_41" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_41" port: "O_seq" } sink { cell: "count[1]~FF_frt_15" port: "I[1]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_40" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_41" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_40" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_40" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_40" port: "O_seq" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "I[3]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_39" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_40" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_39" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_39" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_39" port: "O_seq" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "I[2]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_38" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_39" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_38" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_38" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_38" port: "O_seq" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "I[1]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_37" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_38" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_37" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_37" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_37" port: "O_seq" } sink { cell: "count[1]~FF_frt_11_frt_30" port: "I[0]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_36" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_37" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_36" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_36" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_35" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_36" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_35" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_35" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_34" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_35" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_34" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_34" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_33" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_34" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_33" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_33" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_32" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_33" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_21" port: "O_seq" } sink { cell: "count[17]~FF" port: "I[1]" } delay_max: 1037 delay_min: 0  }
+route { driver { cell: "count[17]~FF" port: "O_seq" } sink { cell: "LUT__222" port: "I[1]" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_22" port: "O_seq" } sink { cell: "count[18]~FF" port: "I[1]" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "count[18]~FF" port: "O_seq" } sink { cell: "LUT__222" port: "I[2]" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_32" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_32" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_31" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_32" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_31" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_31" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_11_frt_30" port: "O_seq" } sink { cell: "count[11]~FF_frt_4" port: "I[1]" } delay_max: 437 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_16_frt_29" port: "O_seq" } sink { cell: "count[11]~FF_frt_4" port: "I[2]" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_49" port: "O_seq" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "I[0]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_49" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_49" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_50" port: "O_seq" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "I[1]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_50" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_50" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_51" port: "O_seq" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "I[2]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_51" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_51" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_52" port: "O_seq" } sink { cell: "count[1]~FF_frt_23_frt_28" port: "I[3]" } delay_max: 485 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_52" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_52" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_23_frt_28" port: "O_seq" } sink { cell: "count[19]~FF_frt_0_frt_3" port: "I[0]" } delay_max: 437 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_27" port: "O_seq" } sink { cell: "count[19]~FF_frt_0_frt_3" port: "I[1]" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "count[19]~FF_frt_0_frt_3" port: "O_seq" } sink { cell: "LUT__222" port: "I[3]" } delay_max: 481 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_15" port: "O_seq" } sink { cell: "count[11]~FF_frt_4" port: "I[0]" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_20" port: "O_seq" } sink { cell: "count[11]~FF_frt_4" port: "I[3]" } delay_max: 799 delay_min: 0  }
+route { driver { cell: "count[11]~FF_frt_4" port: "O_seq" } sink { cell: "LUT__222" port: "I[0]" } delay_max: 438 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_53" port: "O_seq" } sink { cell: "count[1]~FF_frt_27" port: "I[1]" } delay_max: 755 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_53" port: "O_seq" } sink { cell: "count[1]~FF_frt_5_frt_53" port: "I[0]" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_49" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_50" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_50" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_51" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_51" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_52" port: "cin" } delay_max: 0 delay_min: 0  }
+route { driver { cell: "count[1]~FF_frt_5_frt_52" port: "cout" } sink { cell: "count[1]~FF_frt_5_frt_53" port: "cin" } delay_max: 0 delay_min: 0  }
 route { driver { cell: "clk_in" port: "inpad" } sink { cell: "CLKBUF__0" port: "IO_in" } delay_max: 0 delay_min: 0  }

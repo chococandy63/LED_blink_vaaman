@@ -15,11 +15,11 @@ INFO     : Running Placement and Routing for Family "Trion", Device "T120F324" .
            ***** Beginning stage netlist pre-processing ... *****
 INFO     : Successfully Read in Verific binary Netlist dump file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
 INFO     : ***** Beginning VDB Netlist Checker ... *****
-INFO     : VDB Netlist Checker took 0.00138811 seconds.
+INFO     : VDB Netlist Checker took 0.00120024 seconds.
 INFO     : 	VDB Netlist Checker took 0 seconds (approximately) in total CPU time.
-INFO     : VDB Netlist Checker virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
-INFO     : VDB Netlist Checker resident set memory usage: begin = 110.956 MB, end = 111.084 MB, delta = 0.128 MB
-INFO     : 	VDB Netlist Checker peak resident set memory usage = 2252.63 MB
+INFO     : VDB Netlist Checker virtual memory usage: begin = 253.548 MB, end = 253.548 MB, delta = 0 MB
+INFO     : VDB Netlist Checker resident set memory usage: begin = 130.988 MB, end = 130.988 MB, delta = 0 MB
+INFO     : 	VDB Netlist Checker peak resident set memory usage = 2499.46 MB
 INFO     : ***** Ending VDB Netlist Checker ... *****
 INFO     : Reading core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
 INFO     : Successfully read core interface constraints file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.interface.csv"
@@ -29,35 +29,35 @@ INFO     : Pass 0: Swept away 0 blocks with no fanout.
 INFO     : Swept away 0 nets and 0 blocks in total.
 INFO     : Removed 0 LUT buffers
 INFO     : Successfully created VPR logical netlist from Verific binary DataBase file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.vdb".
-INFO     : Netlist pre-processing took 0.00431924 seconds.
+INFO     : Netlist pre-processing took 0.00360442 seconds.
 INFO     : 	Netlist pre-processing took 0 seconds (approximately) in total CPU time.
-INFO     : Netlist pre-processing virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
-INFO     : Netlist pre-processing resident set memory usage: begin = 110.308 MB, end = 111.084 MB, delta = 0.776 MB
-INFO     : 	Netlist pre-processing peak resident set memory usage = 2252.63 MB
+INFO     : Netlist pre-processing virtual memory usage: begin = 253.548 MB, end = 253.548 MB, delta = 0 MB
+INFO     : Netlist pre-processing resident set memory usage: begin = 130.36 MB, end = 130.988 MB, delta = 0.628 MB
+INFO     : 	Netlist pre-processing peak resident set memory usage = 2499.46 MB
            ***** Ending stage netlist pre-processing *****
            
            ***** Beginning stage pre-packing ... *****
            ***** Ending stage pre-packing *****
            
            ***** Beginning stage packing ... *****
-INFO     : Generate proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 0.000208 seconds
+INFO     : Generate proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 0.000204 seconds
 INFO     : Creating IO constraints file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.io_place'
-INFO     : Packing took 0.00421357 seconds.
-INFO     : 	Packing took 0.01 seconds (approximately) in total CPU time.
-INFO     : Packing virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
-INFO     : Packing resident set memory usage: begin = 111.912 MB, end = 112.336 MB, delta = 0.424 MB
-INFO     : 	Packing peak resident set memory usage = 2252.63 MB
+INFO     : Packing took 0.00409624 seconds.
+INFO     : 	Packing took 0 seconds (approximately) in total CPU time.
+INFO     : Packing virtual memory usage: begin = 253.548 MB, end = 253.548 MB, delta = 0 MB
+INFO     : Packing resident set memory usage: begin = 131.116 MB, end = 131.116 MB, delta = 0 MB
+INFO     : 	Packing peak resident set memory usage = 2499.46 MB
            ***** Ending stage packing *****
            
            ***** Beginning stage packed netlist loading ... *****
 INFO     : Read proto netlist file /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto
-INFO     : Read proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 5.8e-05 seconds
-INFO     : Setup net and block data structure took 0.001435 seconds
-INFO     : Packed netlist loading took 0.0122084 seconds.
+INFO     : Read proto netlist for file "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/work_pnr/LED_BLINKING_DEMO.net_proto" took 4.9e-05 seconds
+INFO     : Setup net and block data structure took 0.001241 seconds
+INFO     : Packed netlist loading took 0.0140678 seconds.
 INFO     : 	Packed netlist loading took 0.01 seconds (approximately) in total CPU time.
-INFO     : Packed netlist loading virtual memory usage: begin = 253.552 MB, end = 253.552 MB, delta = 0 MB
-INFO     : Packed netlist loading resident set memory usage: begin = 112.336 MB, end = 112.66 MB, delta = 0.324 MB
-INFO     : 	Packed netlist loading peak resident set memory usage = 2252.63 MB
+INFO     : Packed netlist loading virtual memory usage: begin = 253.548 MB, end = 253.548 MB, delta = 0 MB
+INFO     : Packed netlist loading resident set memory usage: begin = 131.116 MB, end = 131.3 MB, delta = 0.184 MB
+INFO     : 	Packed netlist loading peak resident set memory usage = 2499.46 MB
            ***** Ending stage packed netlist loading *****
            
            ***** Beginning stage pre-placement ... *****
@@ -82,74 +82,72 @@ INFO     : Starting Global Placer with 6 threads ...
             ----------     -------  --------------     -------
              Iteration       WHPWL Worst Slack (ps) Convergence
             ----------     -------  --------------     -------
-INFO     :           1         105           -2015        88.9%
-INFO     :           2         100           -2015        92.3%
-INFO     :           3         101           -2015        92.3%
-INFO     :           4         102           -2015        92.3%
-INFO     :           5         101           -2015        92.3%
-INFO     :           6         100           -2015        92.3%
-INFO     :           7         100           -2015        93.2%
-INFO     :           8         100           -2015        93.2%
-INFO     :           9         101           -2015        93.2%
-INFO     :          10         100           -2015        93.2%
-INFO     :          11         100           -2015        94.8%
-INFO     :          12         100           -2510        97.3%
-INFO     :          13         101           -2510        97.3%
-INFO     :          14         101           -2500        99.5%
-INFO     :          15         101           -2506        99.8%
-INFO     :          16         101           -2496       100.0%
-INFO     :          17         101           -2506       100.0%
-INFO     :          18         101           -2506       100.0%
-INFO     :          19         101           -2506       100.0%
+INFO     :           1          72           -2015        93.5%
+INFO     :           2          73           -2015        93.5%
+INFO     :           3          72           -1634        94.2%
+INFO     :           4          72           -2015        94.2%
+INFO     :           5          74           -2015        94.2%
+INFO     :           6          74           -2015        94.2%
+INFO     :           7          72           -2015        94.2%
+INFO     :           8          73           -2015        94.2%
+INFO     :           9          75           -2015        94.2%
+INFO     :          10          73           -2015        95.2%
+INFO     :          11          72           -2050        96.9%
+INFO     :          12          72           -2050        98.9%
+INFO     :          13          72           -2572        99.9%
+INFO     :          14          72           -2572        99.9%
+INFO     :          15          72           -2572       100.0%
+INFO     :          16          72           -2571       100.0%
+INFO     :          17          72           -2571       100.0%
 INFO     : Starting Annealer
             ----------     -------  --------------     -------
              Iteration       WHPWL  Delay Max (ps)     R Limit
             ----------     -------  --------------     -------
-INFO     :           0         101            3350        30.0
-INFO     :           1         127            2946        30.0
-INFO     :           2         134            2859        30.0
-INFO     :           3         134            2859        30.0
-INFO     :           4         138            2859        30.0
-INFO     :           5         138            2859        30.0
-INFO     :           6         135            2859        30.0
-INFO     :           7         130            2859        30.0
-INFO     :           8         130            2859        30.0
-INFO     :           9         131            2859        30.0
-INFO     :          10         128            2859        30.0
-INFO     :          11         127            2859        30.0
-INFO     :          12         128            2859        30.0
-INFO     :          13         125            2859        30.0
-INFO     :          14         127            2859        30.0
-INFO     :          15         127            2859        30.0
-INFO     :          16         130            2859        30.0
-INFO     :          17         131            2859        30.0
-INFO     :          18         129            2859        30.0
-INFO     :          19         129            2859        30.0
-INFO     :          20         129            2859        30.0
-INFO     :          21         135            2969        30.0
-INFO     :          22         137            2858        30.0
-INFO     :          23         148            2858        30.0
-INFO     :          24         147            2858        30.0
-INFO     :          25         145            2858        30.0
-INFO     :          26         146            2858        30.0
-INFO     :          27         153            2858        30.0
-INFO     :          28         151            2858        30.0
-INFO     :          29         151            2858        29.9
-INFO     :          30         151            2858        30.0
-INFO     :          31         154            2858        30.0
-INFO     :          32         154            2858        30.0
+INFO     :           0          72            3415        30.0
+INFO     :           1          81            2858        30.0
+INFO     :           2         104            2858        30.0
+INFO     :           3         102            2858        30.0
+INFO     :           4         107            2858        30.0
+INFO     :           5         112            2858        30.0
+INFO     :           6         114            2858        30.0
+INFO     :           7         114            2858        30.0
+INFO     :           8         114            2858        30.0
+INFO     :           9         115            2858        30.0
+INFO     :          10         115            2858        30.0
+INFO     :          11         115            2858        30.0
+INFO     :          12         115            2858        30.0
+INFO     :          13         114            2858        30.0
+INFO     :          14         115            2858        30.0
+INFO     :          15         116            2858        30.0
+INFO     :          16         116            2858        30.0
+INFO     :          17         116            2858        30.0
+INFO     :          18         116            2858        30.0
+INFO     :          19         116            2858        30.0
+INFO     :          20         112            2858        30.0
+INFO     :          21         107            2858        30.0
+INFO     :          22         108            2858        30.0
+INFO     :          23         113            2858        30.0
+INFO     :          24         114            2858        30.0
+INFO     :          25         114            2858        30.0
+INFO     :          26         109            2858        30.0
+INFO     :          27         106            2858        30.0
+INFO     :          28         110            2858        30.0
+INFO     :          29         110            2858        30.0
+INFO     :          30         110            2858        30.0
+INFO     :          31         109            2858        30.0
+INFO     :          32         106            2858        30.0
 INFO     : Generate /home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO_after_qp.qdelay
-INFO     : Placement successful: 45 cells are placed
-INFO     : Peak congestion smeared over 1/4 of the chip is 0.00344817 at 0,0
-INFO     : Congestion-weighted HPWL per net: 1.68611
+INFO     : Placement successful: 40 cells are placed
+INFO     : Peak congestion smeared over 1/4 of the chip is 0.00293752 at 2,0
+INFO     : Congestion-weighted HPWL per net: 1.23324
 INFO     : Reading placement constraints from '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.qplace'.
-INFO     : Finished Realigning Types (3 blocks needed type change)
+INFO     : Finished Realigning Types (1 blocks needed type change)
 INFO     : Completed placement consistency check successfully.
 INFO     : Successfully created FPGA place file '/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.place'
-INFO     : Placement took 3.21331 seconds.
-INFO     : 	Placement took 4.55 seconds (approximately) in total CPU time.
-INFO     : Placement virtual memory usage: begin = 253.552 MB, end = 733.496 MB, delta = 479.944 MB
-INFO     : Placement resident set memory usage: begin = 113.848 MB, end = 530.964 MB, delta = 417.116 MB
-INFO     : 	Placement peak resident set memory usage = 2252.63 MB
+INFO     : Placement took 3.10211 seconds.
+INFO     : 	Placement took 4.3 seconds (approximately) in total CPU time.
+INFO     : Placement virtual memory usage: begin = 253.548 MB, end = 733.492 MB, delta = 479.944 MB
+INFO     : Placement resident set memory usage: begin = 133.592 MB, end = 545.576 MB, delta = 411.984 MB
+INFO     : 	Placement peak resident set memory usage = 2499.46 MB
            ***** Ending stage placement *****
            

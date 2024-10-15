@@ -1,6 +1,6 @@
 Efinity Synthesis report for project LED_BLINKING_DEMO
 Version: 2024.1.163
-Generated at: Oct 14, 2024 18:54:43
+Generated at: Oct 15, 2024 16:08:02
 Copyright (C) 2013 - 2024  All rights reserved.
 
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###
@@ -19,8 +19,8 @@ CE signal <n5>, number of controlling flip flops: 1
 
 ### ### EFX_FF SR set/reset (begin) ### ### ###
 Total number of set/reset signals: 1
-Total number of FFs with set/reset signals: 41
-SR signal <n5>, number of controlling flip flops: 41
+Total number of FFs with set/reset signals: 36
+SR signal <n5>, number of controlling flip flops: 36
 ### ### EFX_FF SR set/reset (end) ### ### ###
 
 ### ### Module Resource Usage Distribution Estimates (begin) ### ###
@@ -29,7 +29,7 @@ SR signal <n5>, number of controlling flip flops: 41
 
 Module                        FFs        ADDs        LUTs      RAMs DSP/MULTs
 ---------------------         ---        ----        ----      ---- ---------
-led_blink:led_blink        42(42)      23(23)        7(7)      0(0)      0(0)
+led_blink:led_blink        37(37)      23(23)        6(6)      0(0)      0(0)
 
 ### ### Module Resource Usage Distribution Estimates (end) ### ###
 
@@ -38,7 +38,7 @@ led_blink:led_blink        42(42)      23(23)        7(7)      0(0)      0(0)
 
   Clock     Flip-Flops   Memory Ports    Multipliers
   -----     ----------   ------------    -----------
- clk_in             42              0              0
+ clk_in             37              0              0
 
 ### ### Clock Load Distribution Report (end) ### ###
 
@@ -65,16 +65,16 @@ veri_options : verilog_mode=verilog_2k,vhdl_mode=vhdl_2008
 
 ### ### Resource Summary (begin) ### ### ### 
 INPUT  PORTS    : 	1
-OUTPUT PORTS    : 	4
+OUTPUT PORTS    : 	1
 
 EFX_ADD         : 	23
-EFX_LUT4        : 	7
+EFX_LUT4        : 	6
    1-2  Inputs  : 	1
    3    Inputs  : 	0
-   4    Inputs  : 	6
-EFX_FF          : 	42
+   4    Inputs  : 	5
+EFX_FF          : 	37
 EFX_GBUFCE      : 	1
 ### ### Resource Summary (end) ### ### ###
 
-Plain synthesis (without verilog dump and post-map checks) time : 6s
-Elapsed synthesis time : 6s
+Plain synthesis (without verilog dump and post-map checks) time : 3s
+Elapsed synthesis time : 3s

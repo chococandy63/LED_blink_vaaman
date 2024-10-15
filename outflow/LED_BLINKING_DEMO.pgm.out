@@ -14,8 +14,8 @@ INFO     : 	io_weak_pullup                           = on
 INFO     : 	enable_remote_update                     = off
 INFO     : 	release_tri_then_reset                   = on
 INFO     : Finished generating "/home/trinity/Downloads/efinity/2024.1/project/LED_BLINKING_DEMO/outflow/LED_BLINKING_DEMO.hex"
-INFO     : Efinix Bitstream Generator took 6.34829 seconds.
-INFO     : 	Efinix Bitstream Generator took 6.19 seconds (approximately) in total CPU time.
+INFO     : Efinix Bitstream Generator took 5.84417 seconds.
+INFO     : 	Efinix Bitstream Generator took 5.72 seconds (approximately) in total CPU time.
 INFO     : Efinix Bitstream Generator virtual memory usage: begin = 72.412 MB, end = 372.12 MB, delta = 299.708 MB
-INFO     : Efinix Bitstream Generator resident set memory usage: begin = 16.58 MB, end = 285.348 MB, delta = 268.768 MB
-INFO     : 	Efinix Bitstream Generator peak resident set memory usage = 2252.89 MB
+INFO     : Efinix Bitstream Generator resident set memory usage: begin = 20.268 MB, end = 284.948 MB, delta = 264.68 MB
+INFO     : 	Efinix Bitstream Generator peak resident set memory usage = 2499.77 MB

@@ -5,7 +5,7 @@
 
 # Efinity Interface Designer SDC
 # Version: 2024.1.163
-# Date: 2024-10-14 18:54
+# Date: 2024-10-15 16:08
 
 # Copyright (C) 2013 - 2024 Efinix Inc. All rights reserved.
 
